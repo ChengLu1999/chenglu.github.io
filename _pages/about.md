@@ -23,7 +23,7 @@ hide_meta: true
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3h-17A1.5 1.5 0 0 0 2 4.5v17A1.5 1.5 0 0 0 3.5 23h17a1.5 1.5 0 0 0 1.5-1.5v-17A1.5 1.5 0 0 0 20.5 3ZM8 19.5H5.5V10H8v9.5ZM6.7 8.7A1.45 1.45 0 1 1 6.7 5.8a1.45 1.45 0 0 1 0 2.9Zm13.3 10.8h-2.5v-4.6c0-1.1 0-2.6-1.6-2.6s-1.8 1.2-1.8 2.5v4.7h-2.5V10h2.4v1.3h.1c.3-.6 1.2-1.6 2.4-1.6 2.6 0 3 1.7 3 3.9v5.9Z"/></svg>
       </a>
     </div>
-    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260721.pdf' | relative_url }}">Download CV</a>
+    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260731.pdf' | relative_url }}">Download CV</a>
   </div>
 
   <div class="section-body">
